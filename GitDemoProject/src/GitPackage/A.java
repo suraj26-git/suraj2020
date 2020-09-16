@@ -12,6 +12,8 @@ public class A {
 		System.out.println("Hello...");
 		
 	 A a= new A();
+           a.sum();
+	   a.sub();
 	}
 
 }
