@@ -6,7 +6,7 @@ public class A {
 		System.out.println("sum==A");
 	}
 	public void sub() {
-		System.out.println("sub==A");
+		System.out.println("sub==Ab");
 	}
 	public static void main(String[] args) {
 		System.out.println("Hello...");
