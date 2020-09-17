@@ -13,6 +13,9 @@ public class A {
 		
 	 A a= new A();
 	 
+		a.sum();
+		a.sub();
+
 	}
 
 }
